@@ -4,7 +4,7 @@
 I am Dogan, second year student of [Data Science and Scientific Computing](https://dssc.units.it) master program at [University Of Trieste](https://www.units.it/en). Broadly speaking, my interest areas are **Machine Learning**, **Statistical Learning**. Take a look at my repositories :wink:
 
 ### Experience :construction_worker:
-* Data Science Intern at [Fraudio] (https://www.fraudio.com)
+* Data Science Intern at [Fraudio](https://www.fraudio.com)
 * Software Tester at [Turkish Airlines](https://www.turkishairlines.com/en-int/index.html)
 * Part-Time Data Governance Specialist at [Turkish Airlines](https://www.turkishairlines.com/en-int/index.html)
 * Management Intern at [Pladis](https://www.pladisglobal.com)
