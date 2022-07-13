@@ -1,6 +1,6 @@
 ## Hi there! :wave:
 
-I am Dogan, Machine Learning Engineer at [Memory](https://timelyapp.com/about). Broadly speaking, my interest areas are **Practical Machine Learning**, **Machine Learning Interpretability** and **Deep Learning**. Take a look at my business [account](https://github.com/doganMemory/doganMemory) and repositories :wink:
+I am Dogan, Machine Learning Engineer at [Memory](https://timelyapp.com/about). Broadly speaking, my interest areas are **Practical Machine Learning**, **Machine Learning Interpretability** and **Deep Learning**. Take a look at my business [account](https://github.com/doganMemory) and repositories :wink:
 
 ### Experience :construction_worker:
 * Machine Learning Engineer at [Memory](https://timelyapp.com/about)
