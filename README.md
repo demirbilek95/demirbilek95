@@ -1,9 +1,9 @@
-
 ## Hi there! :wave:
 
-I am Dogan, second year student of [Data Science and Scientific Computing](https://dssc.units.it) master program at [University Of Trieste](https://www.units.it/en). Broadly speaking, my interest areas are **Machine Learning**, **Statistical Learning**. Take a look at my repositories :wink:
+I am Dogan, Machine Learning Engineer at [Memory](https://timelyapp.com/about). Broadly speaking, my interest areas are **Practical Machine Learning**, **Machine Learning Interpretability** and **Deep Learning**. Take a look at my business [account](https://github.com/doganMemory/doganMemory) and repositories :wink:
 
 ### Experience :construction_worker:
+* Machine Learning Engineer at [Memory](https://timelyapp.com/about)
 * Data Science Intern at [Fraudio](https://www.fraudio.com)
 * Software Tester at [Turkish Airlines](https://www.turkishairlines.com/en-int/index.html)
 * Part-Time Data Governance Specialist at [Turkish Airlines](https://www.turkishairlines.com/en-int/index.html)
@@ -31,4 +31,3 @@ I am Dogan, second year student of [Data Science and Scientific Computing](https
   <img alt="Hackerrank" src="https://user-images.githubusercontent.com/29048998/90065968-56cf2f80-dced-11ea-94a3-5259fa1e3bee.png"
   width=21x">
 </a>
-            
