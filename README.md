@@ -1,6 +1,5 @@
 ## Hi there! :wave:
-
-I am Dogan, Machine Learning Engineer at [Memory](https://timelyapp.com/about). Broadly speaking, my interest areas are **Practical Machine Learning**, **Machine Learning Interpretability** and **Deep Learning**. Take a look at my business [account](https://github.com/doganMemory) and repositories :wink:
+I am Dogan, Data Scientist at [Unacast](https://www.unacast.com/about). Broadly speaking, my interest areas are **Practical Machine Learning**, **Machine Learning Interpretability** and **Deep Learning**. Take a look at my business [account](https://github.com/doganMemory) and repositories :wink:
 
 ### Experience :construction_worker:
 * Machine Learning Engineer at [Memory](https://timelyapp.com/about)
@@ -14,7 +13,6 @@ I am Dogan, Machine Learning Engineer at [Memory](https://timelyapp.com/about). 
 * Yildiz Technical University - Industrial Engineering B.Eng.
 
 ### Useful Links :telephone:
-
 <a href="https://www.linkedin.com/in/dogancandemirbilek/">
    <img alt="Linkedin" src="https://user-images.githubusercontent.com/29048998/90065973-58005c80-dced-11ea-96d4-1f1076789995.png"
    width=21x">
