@@ -1,5 +1,5 @@
 ## Hi there! :wave:
-I am Dogan, Data Scientist at [Unacast](https://www.unacast.com/about). Broadly speaking, my interest areas are **Practical Machine Learning**, **Machine Learning Interpretability** and **Deep Learning**. Take a look at my business [account](https://github.com/doganMemory) and repositories :wink:
+I am Dogan, Data Scientist at [Unacast](https://www.unacast.com/about). Broadly speaking, my interest areas are **Practical Machine Learning**, **Machine Learning Interpretability** and **Deep Learning**. Take a look at my repositories :wink:
 
 ### Experience :construction_worker:
 * Machine Learning Engineer at [Memory](https://timelyapp.com/about)
