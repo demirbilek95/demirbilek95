@@ -2,6 +2,7 @@
 I am Dogan, Data Scientist at [Unacast](https://www.unacast.com/about). Broadly speaking, my interest areas are **Practical Machine Learning**, **Machine Learning Interpretability** and **Deep Learning**. Take a look at my repositories :wink:.
 
 ### Experience :construction_worker:
+* Data Engineer at [Bane NOR](https://www.banenor.no/en/)
 * Data Scientist at [Unacast](https://www.unacast.com/about)
 * Machine Learning Engineer at [Memory](https://timelyapp.com/about)
 * Data Science Intern at [Fraudio](https://www.fraudio.com)
